@@ -8,8 +8,6 @@
 🌏  Thanks for stopping by, this is Kelly Ren from Chengdu, China. 
 
 - 👩🏻‍💻I am a fullstack web developer based in **Tel Aviv**
-- 😄 My website: <https://kellyren.gtsb.io/>
-- ⚙️ I use daily:  `.js`, `.html`, `.css`, `.py`
 - 💬 Ask me about: everything especially about **mindfulness, scuba diving, digital nomad**
 - **I** ❤️ **to think, learn, code, and customize everything**
 
@@ -39,12 +37,14 @@
 
 ![Heroku](https://img.shields.io/badge/-Heroku-%23007ACC?style=flat-square&logo=heroku&lableColor=4C1E9F)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-yellow?style=flat-square&logo=gatsby)
+![Google Could Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white")
 
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ## My Github stats
 <p align='center'>
@@ -66,7 +66,7 @@ Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge
   ✨  <img src="https://visitor-badge.glitch.me/badge?page_id=krenren.krenren"/>
 </p>
 
-⭐️ From [kerenren](https://github.com/kerenren)
+⭐️ From [@kerenren](https://github.com/kerenren) | [Website](https://kellyren.gtsb.io/)
 
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
