@@ -53,7 +53,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabouchikhi&bg_color=071A2C&text_color=FFFFFF" alt="kerenren's top langs"/>
 </p>
 
-<a align="right" href="https://app.daily.dev/Kelly"><img src="https://api.daily.dev/devcards/8c5ab10a7f1042d7a10d584a0403505f.png?r=m8x" width="400" alt="kelly's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kerenren/kerenren/blob/main/devcard.svg" width="400" alt="Kelly Ren's Dev Card"/></a>
+
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
