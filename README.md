@@ -47,14 +47,14 @@
 
 
 ## My Github stats
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kerenren&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="kerenren's github stats"/>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabouchikhi&bg_color=071A2C&text_color=FFFFFF" alt="kerenren's top langs"/>
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kerenren&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="kerenren's github stats"/>
+  
+<a align="right"  href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kerenren/kerenren/blob/main/devcard.svg" width="400" alt="Kelly Ren's Dev Card"/></a>
+  
+<!-- 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabouchikhi&bg_color=071A2C&text_color=FFFFFF" alt="kerenren's top langs"/> -->
 </p>
-
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kerenren/kerenren/blob/main/devcard.svg" width="400" alt="Kelly Ren's Dev Card"/></a>
-
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
