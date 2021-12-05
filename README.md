@@ -2,7 +2,6 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
-
 ### Hi there 👋 
 
 🌏  Thanks for stopping by, this is Kelly Ren from Chengdu, China. 
@@ -46,12 +45,16 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
+
 ## My Github stats
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kerenren&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="kerenren's github stats"/>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabouchikhi&bg_color=071A2C&text_color=FFFFFF" alt="kerenren's top langs"/>
 </p>
+
+<a align="right" href="https://app.daily.dev/Kelly"><img src="https://api.daily.dev/devcards/8c5ab10a7f1042d7a10d584a0403505f.png?r=m8x" width="400" alt="kelly's Dev Card"/></a>
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
